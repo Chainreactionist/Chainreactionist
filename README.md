@@ -1,5 +1,7 @@
 ### Hi there, I'm (Jonathan)Chainreactionist 👋
 
+This is my account for roblox game development
+
 Data Analyst, Game Developer, Programmer(LUA, TS, JS) and and Product and Project Manager.
 
 ## [Roblox](https://www.roblox.com/users/784730716/profile).
